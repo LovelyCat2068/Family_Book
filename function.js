@@ -1,10 +1,10 @@
-var family_member_array=["Family.jpg", "Mother.png", "Father.png"];
-var family_names_array=["My Family", "Kirti Kiron", "Ravindra Kumar"];
+var family_member_array=["Family.jpg", "Mother.png", "Father.png", "Child.png"];
+var family_names_array=["My Family", "Kirti Kiron", "Ravindra Kumar", "Advika Pahal"];
 
 var i=0;
 function change_image(){
     i++
-    if(i==3)
+    if(i==4)
     {
         i=0;
     }
